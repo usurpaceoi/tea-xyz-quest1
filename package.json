@@ -1,0 +1,22 @@
+{
+  "name": "demtu0den-n-truongton12",
+  "version": "1.0.2",
+  "description": "truongton12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongton12/demtu0den-n-truongton12.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "truongton12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongton12/demtu0den-n-truongton12/issues"
+  },
+  "homepage": "https://github.com/truongton12/demtu0den-n-truongton12#readme"
+}
