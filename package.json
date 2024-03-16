@@ -1,6 +1,6 @@
 {
   "name": "demtu0den-n-truongton12",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "truongton12",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "truongton12",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/truongton12/demtu0den-n-truongton12/issues"
   },
